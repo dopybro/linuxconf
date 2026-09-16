@@ -2,3 +2,8 @@
 192.168.80.2 ws2.cjl.com
 192.168.80.3 ws3.cjl.com
 192.168.80.4 ws4.cjl.com
+<<<<<<< HEAD
+192.168.80.5 ws5.cjl.com
+=======
+192.168.80.6 ws6.cjl.com
+>>>>>>> branch2
