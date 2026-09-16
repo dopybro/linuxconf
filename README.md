@@ -7,6 +7,6 @@
 
 **Any questions please connect to [HERE](www.cjl.com)**
 
-***Charger: Sam Altman & John Smith***  
+***Maintainer: Sam Altman & John Smith***  
 
 ***2026/09/16***
