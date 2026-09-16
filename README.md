@@ -1,4 +1,4 @@
-# CJL.com Hosts&Network Configuration##  
+# CJL.com Hosts&Network Configuration
 
 1. hosts
 2. ens160_nmcli-connections
